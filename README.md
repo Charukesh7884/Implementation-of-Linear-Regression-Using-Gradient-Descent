@@ -9,12 +9,19 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Import required libraries.
+
 2.Load dataset (50_Startups.csv).
+
 3.Separate features (X) and target (y).
+
 4.Scale X and y using StandardScaler.
+
 5.Print identification (Name & Reg. No.) and scaled values.
+
 6.Build and train a LinearRegression model.
+
 7.Scale new input, predict profit, and inverse transform the result.
+
 8.Print final predicted profit.
 
 ## Program:
